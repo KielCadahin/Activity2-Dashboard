@@ -1,0 +1,263 @@
+body{
+    background-color: whitesmoke;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 97vh;
+}
+#divMain{
+    background-color: white;
+    width: 800px;
+    height: 450px;
+    display: flex;
+}
+#divBlue{
+    background-color: #062d48;
+    color: white;
+    height: 100%;
+    width: 25%;
+    display: flex;
+    justify-content: center;
+}
+#divBlue a{
+    text-decoration: none;
+    color: white;
+}
+
+
+
+#divBlueMainSpace{
+    width: 85%;
+}
+#planetP{
+    font-size: 150%;
+    color: #02e1ff; 
+    margin-top: 10%;
+}
+#divDeviasProduction{  
+    width: 100%;   
+}
+#divDevias_Arrow{
+    background-color: rgba(67, 149, 197, 0.5);
+    display: flex;
+    border-radius: 5px;
+    padding: 3%;
+    font-size: 90%;
+}
+#arrow{
+    justify-content: right;
+    align-items: center;
+    display: flex;
+    font-size: 70%;
+    
+}
+#divMainMenus{
+    width: 100%;
+    margin-top: 10%;
+}
+#divMainMenus div{
+    margin-bottom: 5%;
+    font-size: 80%;
+
+}
+#divMainMenus .divMenu{
+    display: flex;
+    padding: 2%;
+    padding-top: 3%;
+}
+#Menu1{
+    background-color: rgba(67, 149, 197, 0.5);
+    border-radius: 5px;
+    gap: 20%;
+}
+#Menu2{
+    gap: 17%;
+}
+#Menu3{
+    gap: 22%;
+}
+#Menu4{
+    gap: 21%;
+}
+#Menu5{
+    gap: 20%;
+}
+#Menu6{
+    gap: 20%;
+}
+#Menu7{
+    gap: 19%;
+}
+#Menu8{
+    gap: 20%;
+}
+
+
+
+
+
+
+
+#divWhite{
+    background-color: white;
+    height: 100%;
+    width: 75%;
+}
+nav{
+    background-color: #f7f7f7;
+    padding: 10px; 
+    margin: 5px 5px;
+    border-radius: 50px;
+    color: gray;
+    display: flex;
+    font-size: 70%;
+    align-items: center;
+}
+nav p{
+    margin: 0;
+}
+#searchFocus{
+    background-color: transparent;
+    border: none;
+    width: 100%;
+}
+#searchFocus:focus {
+    outline: none;
+    margin-left: 2%;
+}
+
+
+
+
+#fourDiv{
+    margin: 10px;
+    display: flex;
+    justify-content: center;
+    margin-top: 5%;
+}
+.fourDivDiv{
+    width: 30%;
+    margin: 6px;
+    border-radius: 5px;
+    box-shadow: 0 0 4px rgba(230, 230, 230, 0.9);
+    display: flex;
+    padding-left: 1%;
+}
+#divGraphs{
+    height: 62%;
+    display: flex;
+    gap: 3%;
+    margin: 0px 15px;
+}
+#divRectGraph{
+    width: 65%;
+    border-radius: 3%;
+    box-shadow: 0 0 4px rgba(230, 230, 230, 0.9);
+}
+#divRoundGraph{
+    width: 32%;
+    border-radius: 4%;
+    box-shadow: 0 0 4px rgba(230, 230, 230, 0.9);
+}
+#divIcons{
+    width: 20%;
+    display: flex;
+    justify-content: right;
+    gap: 10%;
+}
+#divIcons a{
+    text-decoration: none;
+    color: rgb(102, 102, 102);
+}
+#divFirst, #divSecond, #divThird, #divFourth{
+    font-size: 35%;
+}
+.fourDivLogo{
+    font-size: 400% ;
+    margin-top: 5%;
+    margin-right: 5%;
+}
+.fourDivP{
+    width: 100%;
+}
+#fourDivLogo1{
+    color: red ;}
+#fourDivLogo2{
+    color: rgb(3, 172, 149);}
+#fourDivLogo3{
+    color: rgb(255, 153, 0);}
+#fourDivLogo4{
+    color: rgb(0, 89, 255);}
+
+#divThird{
+    display: inline;
+}
+#pbars{
+    display: flex;
+}
+#progressbar{
+    background-color: #062d48;
+    width: 65%;
+    height: 2px;
+}
+#progressbar2{
+    background-color: #67bfff;
+    width: 30%;
+    height: 2px;
+}
+#divThirdPLogo{
+    display: flex;
+    width: 100%;
+    height: fit-content;
+}
+
+#divRoundGraph{
+    text-align: center;
+}
+#divRoundGraph img{
+    width: 85%;
+}
+#divLogoInRound{
+    justify-content: center;
+    display: flex;
+    font-size: 55%;
+    gap: 5%;
+    color: rgb(37, 37, 37);
+}
+#divDesktop, #divTablet, #divPhone{
+    text-align: center;
+}
+#roundGraphLabel{
+    text-align: left;
+    margin-left: 5%;
+}
+#rectGraphLabel{
+    margin-left: 3%;
+}
+#divSync{
+    display: flex;
+    width: 100%;
+    justify-content: right;
+    align-items: center;
+    padding-right: 2% ;
+}
+.graphLabel{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-weight: bold;
+    font-size: 70%;   
+}
+#divRectSalesAndSync{
+    display: flex;
+}
+#divRectGraph img{
+    width: 98%;
+    height: 80%;
+    margin-top: 3%;
+}
+
+
+
+
+
+
+
